@@ -1,0 +1,7 @@
+Generant simulacions amb 10, 10^2, 10^3, 10^4...cossos, podem veure que es forma una gran massa negra la qual està
+formada per boletes negres (les quals representen estrelles y planetes, entre d'altres). Aquestes boletes es van
+dispersant, xocant entre elles i quasi mai formant trajectòries.
+
+Tot això succeeix en imatges una rere l'altra, que s'anomenen cicles. Cada 5 segons es produeix un cicle per 10^2
+cossos i va augmentant fins a 7 segons en el cas màxim de cossos que l'ordinador no por superar (10^4). Amb 10^4 cossos
+l'ordinador por fer una bona simulació però amb 10^5 queda en blanc i ja no mostra cap imatge.
